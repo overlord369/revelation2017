@@ -1,0 +1,34 @@
+# Site Settings
+title: Revelation 2017 |CWIT Fest
+email: revelation.cwit@gmail.com
+description: Some text about your blog.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+
+# User Settings
+username: Revelation 2017 
+user_description: CWIT Annual Fest 2017
+
+# Social Media
+# Remove the item if you don't need it
+facebook_username: CWIT-Annual-Events-2017-18-1940730522856892
+instagram_username: cwitannualevent
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# Plugins
+plugins:
+  - jemoji
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Events
+    url: /
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
