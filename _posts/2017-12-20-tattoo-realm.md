@@ -4,8 +4,11 @@ title: "TATTOO REALM"
 date: 2017-12-20 09:38:05
 image: 'https://image.ibb.co/cyBrPm/tatoo.jpg" alt="tatoo'
 description:
-category: ''
+category: 'Cultural'
 tags:
+- Tatto
+- Art
+- Body Art
 twitter_text:
 introduction:
 ---
