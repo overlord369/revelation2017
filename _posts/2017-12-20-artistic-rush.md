@@ -2,7 +2,7 @@
 layout: post
 title: "ARTISTIC RUSH"
 date: 2017-12-20 09:32:58
-image: 'https://image.ibb.co/iA9aH6/decorate_8.jpg'
+image: 'https://image.ibb.co/ixYuum/art_rush.jpg'
 description: Wealth In Waste, Origami- Paper art, Ikebana-Flower Arrangement and other creative decorations 
 category: ''
 tags:

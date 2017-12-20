@@ -2,7 +2,7 @@
 layout: post
 title: "NAIL KNACK and MASK DISGUISE"
 date: 2017-12-20 09:34:09
-image: 'https://image.ibb.co/jaLAjm/nail_art.jpg'
+image: 'https://image.ibb.co/nF3PS6/nail_face.jpg'
 description: Nail art is a creative way to paint, decorate, enhance, and embellish the nails. Bold-coloured paint used to decorate the face.
 category: 'Cultural'
 tags:

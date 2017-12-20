@@ -2,7 +2,7 @@
 layout: post
 title: "BEAUTY QUEST"
 date: 2017-12-20 09:32:31
-image: 'https://image.ibb.co/k8mVH6/beauty_quest.jpg'
+image: 'https://image.ibb.co/kgrYLR/beauty_quest.jpg'
 description: A contest in which the winner is the woman judged the most beautiful.
 category: 'Cultural'
 tags:
