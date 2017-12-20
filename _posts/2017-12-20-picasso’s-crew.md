@@ -42,3 +42,5 @@ Niharika Wakchuaure
 9970220381
 
 ##### STAFF IN CHARGE:
+Prof.R.Z. Deshmukh
+ 

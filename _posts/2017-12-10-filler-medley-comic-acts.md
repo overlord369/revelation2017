@@ -13,20 +13,34 @@ tags:
 twitter_text:
 introduction: Showcase your comic acting, anchoring, mimicry skills
 ---
-#### DAY -: TUESDAY                                                 
-#### DATE -: 24/12/2016
-#### EVENT-:  ANCHORING AND FILLER SELECTION  
-#### TIME -:  
-#### VENUE: - SEMMINAR HALL 2
+#### DATE -: 01/01/2018
+#### DAY -: MONDAY                                             
+#### TIME -:  2:00-4:00
+#### VENUE -:  CIVIL DEPT.
 
 [<img src="https://image.ibb.co/gdyPVG/register_now_red.png">](https://goo.gl/forms/eZT3mhSt7IfE9ubL2)
 
 
 ## NOTE: 
 
+* Single & group both are allowed.
 * Identity card is essential for each and every Programme.
-* Entries should be pre-registered.
+* All the students must be present 1 hour before the event.
+* Confirmation of Final Registration at the desk(1 hour before)
+* Entries should be online booked or pre-registered.
 * All students must keep discipline.
+* All the materials should be carried by the students. No material will be provided.
 * Decision of the judge will be final.
-* Script will be given on the spot.
-* Maximum minute to perform **5 min**.
+* All the participants are requested to wait as Results will be declared that day itself.
+
+##### COMMITTEE MEMBERS INCHARGE:-
+Avez Shaikh										          
+Vispi Karkaria
+
+##### CONTACT: 
+9763323630
+
+
+##### STAFF IN CHARGE:
+Prof. Y.T. Garge
+

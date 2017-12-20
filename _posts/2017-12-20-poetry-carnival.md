@@ -47,3 +47,5 @@ Amit Patil
 9970220381
 
 ##### STAFF IN CHARGE:
+Prof. S.M. Datir
+	
