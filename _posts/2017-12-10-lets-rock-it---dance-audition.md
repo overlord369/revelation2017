@@ -12,28 +12,39 @@ tags:
 twitter_text:
 introduction: Showcase your groovy moves
 ---
-#### DAY -: FRIDAY                                              
-#### DATE -: 23/12/2016
-#### EVENT-:  DANCE COMPETITION  
-#### TIME -:  
-#### VENUE -:  SEMINAR HALL 2
+#### DATE -:03/01/2018
+#### DAY -: WEDNESDAY                                              
+#### TIME -:  2:00-6:00
+#### VENUE -:  SEMINAR HALL 1
 
 [<img src="https://image.ibb.co/gdyPVG/register_now_red.png">](https://goo.gl/forms/IcpsjYVjhVOs3q342)
 
 
 ##NOTE:
 
+* Maximum no. of members in a group 10.
 * Identity card is essential for each and every Programme.
-* Entries should be pre-registered.
+* All the students must be present 1 hour before the event.
+* Confirmation of Final Registration at the desk(1 hour before)
+* Entries should be online booked or pre-registered.
 * All students must keep discipline.
+* All the materials should be carried by the students. No material will be provided.
 * Decision of the judge will be final.
-* Maximum noumber of members in each group: **15**. 
-* Audition track of **2 minutes**.
+* All the participants are requested to wait as Results will be declared that day itself.
+
+##### COMMITTEE MEMBERS INCHARGE:-
+Veronica Robert										  
+Snehal Gawade
+Avez Shaikh
+Darshan Nerkar
+
+##### CONTACT: 
+9763323630
+9619742452
+
+##### STAFF IN CHARGE:
+Prof. Y.T. Garge
 
 
 
-CONTACT: 
 
-
-
-STAFF IN CHARGE:  

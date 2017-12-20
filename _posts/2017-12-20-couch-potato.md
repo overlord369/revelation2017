@@ -39,4 +39,6 @@ Rohit Naidu
 ##### CONTACT: 
 8668999704
 
-##### STAFF IN CHARGE
+##### STAFF IN CHARGE:
+Prof.D.K.Patil
+

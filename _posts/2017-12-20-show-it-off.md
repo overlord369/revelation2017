@@ -42,3 +42,5 @@ Snehal Gawade
 9970220381
 
 ##### STAFF IN CHARGE:
+Prof. S.P. Thigale
+ 
