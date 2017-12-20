@@ -1,7 +1,7 @@
 # Site Settings
 title: CWIT Annual Events 2017 |CWIT Annual Fest
 email: revelation.cwit@gmail.com
-description: Some text about your blog.
+description: CWIT Annual Events
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
