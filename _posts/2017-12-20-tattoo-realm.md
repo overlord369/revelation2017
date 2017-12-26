@@ -12,7 +12,7 @@ tags:
 twitter_text:
 introduction:
 ---
-#### DATE -: 02/01/2018
+#### DATE -: 27/12/2017
 #### DAY -: TUESDAY                                              
 #### TIME -:  3:00-5:00
 #### VENUE -:  IMPACT HALL
