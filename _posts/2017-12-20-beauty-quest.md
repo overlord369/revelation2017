@@ -14,7 +14,7 @@ twitter_text:
 introduction:
 ---
 
-#### DATE -: 27/12/2017
+#### DATE -: 02/01/2017
 #### DAY -: WEDNESDAY
 #### TIME -:  10:30-1:00
 #### VENUE -:  SEMINAR HALL 2
